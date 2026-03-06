@@ -1,2 +1,0 @@
-# AIPROJECT
-My own AIPROJECT
